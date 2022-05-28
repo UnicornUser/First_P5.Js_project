@@ -1,0 +1,13 @@
+h3
+  {
+    font-size: 25px !important;
+    color: aqua;
+    background-color: blue;
+  }
+  canvas {
+  	border:1px solid black;
+  }
+button{
+    background-color: darkviolet;
+    color: rgb(228, 251, 251);
+}
